@@ -1,0 +1,10 @@
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\bin\Release\netstandard2.1\TurretsShootEverything.deps.json
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\bin\Release\netstandard2.1\TurretsShootEverything.dll
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\bin\Release\netstandard2.1\TurretsShootEverything.pdb
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\obj\Release\netstandard2.1\TurretsShootEverything.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\obj\Release\netstandard2.1\TurretsShootEverything.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\obj\Release\netstandard2.1\TurretsShootEverything.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\obj\Release\netstandard2.1\TurretsShootEverything.AssemblyInfo.cs
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\obj\Release\netstandard2.1\TurretsShootEverything.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\obj\Release\netstandard2.1\TurretsShootEverything.dll
+C:\Users\Utilisateur\Downloads\TurretsShootEverything\obj\Release\netstandard2.1\TurretsShootEverything.pdb

@@ -1,0 +1,9 @@
+{
+  "name": "TurretsShootEverything",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/thedoggaming16/TurretsShootEverything",
+  "description": "Turrets shoot every entity: players AND monsters. Host-authoritative, config-driven, compatible with ToilHead and FairAI.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

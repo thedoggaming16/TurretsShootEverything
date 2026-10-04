@@ -1,0 +1,9 @@
+{
+  "name": "TurretsShootEverything",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Turrets shoot everything: players AND monsters. Configurable range, damage and blacklist. Compatible with ToilHead and FairAI.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
